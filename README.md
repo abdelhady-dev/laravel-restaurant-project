@@ -30,11 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+      <a href="#about-the-project">About The Project</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -42,7 +38,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 In the laravel restaurant project, i build a web app that lets a user to book table in restaurant and see menu. Data stored in mysql database with dashboard to control data.
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -62,7 +58,7 @@ This section list frameworks/libraries/languages used to build my project.
 <!-- GETTING STARTED -->
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
